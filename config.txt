@@ -1,0 +1,6 @@
+owner=420212098807627780
+prefix=#
+game=by FoX
+stayinchannel=true
+songinstatus=false
+token=NTUxNjYxNTM1Nzc3MjU5NTIw.D10Ocw.lCrjt7yPdOSWtiFLGzSyBztDuhw
